@@ -31,20 +31,20 @@ body{
 }
 .profile-card{
     background: #111;
-    width:400px;
-    padding: 3rem;
+    width:500px;
+    padding: 5rem;
     border-radius: 10px;
-    min-height: 400px;
+    min-height: 230px;
     position: relative;
     color:#fff;
-    margin: 15px;
+    margin: 10px;
     display: flex;
     justify-content: space-between;
     align-items: center;
     flex-direction: column;
 }
 .profile-card .profile-pic{
-    margin-top: 15px;
+    margin-top: 20px;
     overflow: hidden;
 }
 .profile-card .profile-pic img{
